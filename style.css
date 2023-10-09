@@ -42,13 +42,13 @@ img{
 }
 
 .grid .wide{
-    grid-column: span2;
+    grid-column: span 2;
 }
 .grid .tall{
-    grid-column: span2;
+    grid-row: span 2;
 }
 
 .grid .big{
-    grid-column: span2;
-    grid-row: span2;
+    grid-column: span 2;
+    grid-row: span 2;
 }
